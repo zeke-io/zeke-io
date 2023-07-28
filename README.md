@@ -9,4 +9,3 @@ If you want to contact me directly, please use the contact information below.
 
 - Email: [ezequiel_io@pm.me](mailto:ezequiel_io@pm.me)
 - Twitter: [@ezequiel_hvm](https://twitter.com/ezequiel_hvm)
-- Discord: @zekeio
