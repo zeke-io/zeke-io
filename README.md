@@ -8,4 +8,4 @@ If you want to contact me directly, please use the contact information below.
 ### 📫 Contact
 
 - Email: [ezequiel_hvm@proton.me](mailto:ezequiel_hvm@proton.me)
-- Twitter: [@ezequiel_hvm](https://twitter.com/ezequiel_hvm)
+- Twitter: [@zeke_io](https://twitter.com/zeke_io)
